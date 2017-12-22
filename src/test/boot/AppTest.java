@@ -1,4 +1,4 @@
-package com.asaf.battle-camp-bot;
+package boot;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
